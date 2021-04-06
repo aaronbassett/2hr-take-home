@@ -1,5 +1,4 @@
-Simple React Podcast Player
-###########################
+# Simple React Podcast Player
 
 ## Usage
 
